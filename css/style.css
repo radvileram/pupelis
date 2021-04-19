@@ -1,0 +1,54 @@
+.portfolio{
+    width: 100%;
+    margin-top: 30px;
+
+}
+.about{
+    margin-top: 40px;
+    text-align: justify;
+    font-size: 20px;
+}
+.author{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+#homeParagraph{
+    color: aqua;
+}
+.contacts1{
+    text-align: center;
+}
+.contacts2{
+    font-size: 20px;
+}
+.contacts3{
+    padding: 15px;
+}
+iframe{
+    width: 400px;
+    height: 250px;
+    padding: 15px;
+}
+label{
+    font-size: 15px;
+    color: black;
+}
+.paint{
+    font-size: 20px;
+}
+.title{
+    font-size: 17px;
+    font-weight: bolder;
+}
+.card{
+    height: 450px;
+}
+.language{
+    background-color: black;
+    text-transform: uppercase;
+}
+.changeLanguage{
+    background-color: black;
+    text-transform: uppercase;
+
+}
