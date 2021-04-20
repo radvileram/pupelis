@@ -22,9 +22,10 @@
 }
 .contacts3 {
   padding: 15px;
+  text-align: center;
 }
 iframe {
-  width: 1000px;
+  width: 900px;
   height: 250px;
   padding: 15px;
 }
