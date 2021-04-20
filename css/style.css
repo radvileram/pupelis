@@ -3,13 +3,16 @@
   margin-top: 30px;
 }
 .about {
-  margin-top: 40px;
+  margin-top: 30px;
   text-align: justify;
-  font-size: 23px;
+  font-size: 15px;
 }
 .author {
   text-transform: uppercase;
   font-weight: bolder;
+}
+#author {
+  text-align: justify;
 }
 #homeParagraph {
   color: aqua;
@@ -43,17 +46,22 @@ label {
 .card {
   height: 450px;
 }
-.language {
+#language-website {
   background-color: black;
   text-transform: uppercase;
 }
-.language-mobile {
+#language-mobile {
   background-color: whitesmoke;
   text-transform: uppercase;
 }
 .changeLanguage {
   background-color: whitesmoke;
   text-transform: uppercase;
+}
+.dropdown-content li > a {
+  background-color: black;
+  text-align: center;
+  color: whitesmoke;
 }
 .fa-facebook-square {
   background-color: black;
