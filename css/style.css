@@ -1,54 +1,60 @@
-.portfolio{
-    width: 100%;
-    margin-top: 30px;
-
+.portfolio {
+  width: 100%;
+  margin-top: 30px;
 }
-.about{
-    margin-top: 40px;
-    text-align: justify;
-    font-size: 20px;
+.about {
+  margin-top: 40px;
+  text-align: justify;
+  font-size: 23px;
 }
-.author{
-    text-transform: uppercase;
-    font-weight: bolder;
+.author {
+  text-transform: uppercase;
+  font-weight: bolder;
 }
-#homeParagraph{
-    color: aqua;
+#homeParagraph {
+  color: aqua;
 }
-.contacts1{
-    text-align: center;
+.contacts1 {
+  text-align: center;
 }
-.contacts2{
-    font-size: 20px;
+.contacts2 {
+  font-size: 20px;
 }
-.contacts3{
-    padding: 15px;
+.contacts3 {
+  padding: 15px;
 }
-iframe{
-    width: 400px;
-    height: 250px;
-    padding: 15px;
+iframe {
+  width: 1000px;
+  height: 250px;
+  padding: 15px;
 }
-label{
-    font-size: 15px;
-    color: black;
+label {
+  font-size: 15px;
+  color: black;
 }
-.paint{
-    font-size: 20px;
+.paint {
+  font-size: 20px;
 }
-.title{
-    font-size: 17px;
-    font-weight: bolder;
+.title {
+  font-size: 17px;
+  font-weight: bolder;
 }
-.card{
-    height: 450px;
+.card {
+  height: 450px;
 }
-.language{
-    background-color: black;
-    text-transform: uppercase;
+.language {
+  background-color: black;
+  text-transform: uppercase;
 }
-.changeLanguage{
-    background-color: black;
-    text-transform: uppercase;
-
+.changeLanguage {
+  background-color: black;
+  text-transform: uppercase;
+}
+.fa-facebook-square {
+  background-color: black;
+  color: white;
+}
+.fa-instagram {
+  background-color: black;
+  color: white;
 }
