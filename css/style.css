@@ -47,8 +47,12 @@ label {
   background-color: black;
   text-transform: uppercase;
 }
+.language-mobile {
+  background-color: whitesmoke;
+  text-transform: uppercase;
+}
 .changeLanguage {
-  background-color: black;
+  background-color: whitesmoke;
   text-transform: uppercase;
 }
 .fa-facebook-square {
